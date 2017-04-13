@@ -1,6 +1,7 @@
 package com.wang.ya.utils.util;
 
-import com.blankj.utilcode.constant.RegexConstants;
+
+import com.wang.ya.utils.constant.RegexConstants;
 
 import java.util.ArrayList;
 import java.util.List;

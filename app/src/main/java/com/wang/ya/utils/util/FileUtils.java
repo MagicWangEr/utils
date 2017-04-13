@@ -2,7 +2,7 @@ package com.wang.ya.utils.util;
 
 import android.annotation.SuppressLint;
 
-import com.blankj.utilcode.constant.MemoryConstants;
+import com.wang.ya.utils.constant.MemoryConstants;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

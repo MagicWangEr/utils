@@ -2,7 +2,7 @@ package com.wang.ya.utils.util;
 
 import android.annotation.SuppressLint;
 
-import com.blankj.utilcode.constant.TimeConstants;
+import com.wang.ya.utils.constant.TimeConstants;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
