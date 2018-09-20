@@ -4,6 +4,9 @@ buildscript {
     repositories {
         jcenter()
     }
+    configurations.all {
+        resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+    }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.2.3'
 
